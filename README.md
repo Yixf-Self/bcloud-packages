@@ -1,4 +1,7 @@
 
+#关于本人更改
+增加一个新ubuntu包，为其打上补丁，经过测试，ubuntu14.04可用。
+
 #ABOUT
 这个项目只包含[bcloud](https://github.com/LiuLang/bcloud)的安装包,
 以方便各位朋友使用.
