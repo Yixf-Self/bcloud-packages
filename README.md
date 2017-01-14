@@ -1,6 +1,16 @@
 
 #关于本人更改
-增加一个新ubuntu包，为其打上补丁，经过测试，ubuntu14.04可用。感谢@licamla和@poplite
+1. 2017/01/14 打包bcloud_3.8.1-2_all.deb
+
+    修复网络错误和验证码问题;
+    
+    添加右下角的头像;
+    
+    来源：[https://github.com/Yufeikang/bcloud](https://github.com/Yufeikang/bcloud)
+    
+    删除多余的包;
+    
+1. 2017/01/10 增加一个新ubuntu包，为其打上补丁，经过测试，ubuntu14.04可用。感谢@licamla和@poplite
 
 #ABOUT
 这个项目只包含[bcloud](https://github.com/LiuLang/bcloud)的安装包,
